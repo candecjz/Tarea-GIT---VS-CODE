@@ -10,6 +10,9 @@ body {
   height: 100vh;
 }
 
+h1 {
+  color: #ff63be;
+}
 .container {
   background: white;
   padding: 30px;
